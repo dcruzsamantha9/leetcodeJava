@@ -1,4 +1,6 @@
-public class Main {
+package arrays;
+
+public class MergeSortedArrays {
 
     public static void mergeArray(int[] nums1, int m, int[] nums2, int n){
         int n1= m-1;
